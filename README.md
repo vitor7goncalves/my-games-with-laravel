@@ -15,6 +15,7 @@ Um catálogo de jogos online onde os usuários podem criar uma conta, comprar jo
 - [Laravel](https://laravel.com/)
 - [MySQL](https://www.mysql.com/)
 - [WampServer](https://www.wampserver.com/)
+- [Bootstrap](https://getbootstrap.com/)
 
 ## Instalação
 
